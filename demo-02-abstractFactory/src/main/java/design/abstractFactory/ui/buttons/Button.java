@@ -6,8 +6,5 @@ package design.abstractFactory.ui.buttons;
  * @description: 按钮
  */
 public interface Button {
-    /**
-     * 打印
-     */
     void paint();
 }

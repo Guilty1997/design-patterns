@@ -6,9 +6,6 @@ package design.abstractFactory.ui.buttons;
  * @description:
  */
 public class WindowsButton implements Button {
-    /**
-     * 打印
-     */
     @Override
     public void paint() {
         System.out.println("You have created WindowsButton");
