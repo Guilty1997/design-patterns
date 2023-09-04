@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>demo-01-factory</module>
+        <module>demo-02-abstractFactory</module>
     </modules>
 
     <properties>
