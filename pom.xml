@@ -11,6 +11,7 @@
     <modules>
         <module>demo-01-factory</module>
         <module>demo-02-abstractFactory</module>
+        <module>demo-03-builder</module>
     </modules>
 
     <properties>
